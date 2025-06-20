@@ -1,6 +1,6 @@
 # High-Frequency-Trading-Patterns
 ```markdown
-# High-Frequency-Trading Patterns&nbsp;in Rust
+# High-Frequency-Trading Patterns in Rust
 
 A hands-on playground that **implements canonical HFT play-books in pure Rust**, one pattern per crate (or binary).  
 The goal is to let researchers, quants, and curious Rustaceans *clone → `cargo run` → inspect* each strategy with zero infrastructure pain.

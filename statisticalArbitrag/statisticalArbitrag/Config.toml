@@ -1,0 +1,9 @@
+sym_a           = "SYM_A"
+sym_b           = "SYM_B"
+lookback        = 120          # ticks (~6 s with tick_ms=50)
+beta            = 1.05
+entry_z         = 2.0
+exit_z          = 0.3
+size            = 1.0
+pos_limit       = 10.0
+tick_ms         = 50

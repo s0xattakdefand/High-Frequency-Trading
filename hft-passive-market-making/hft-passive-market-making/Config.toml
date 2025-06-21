@@ -1,0 +1,6 @@
+symbol           = "SIMPERP"
+half_spread      = 0.25     # ticks
+size             = 1.0
+inv_limit        = 10.0
+inv_spread_mult  = 2.0
+tick_ms          = 50       # market-data every 50 ms

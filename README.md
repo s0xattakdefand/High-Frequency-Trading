@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 # High-Frequency-Trading-Patterns
 ```markdown
 # High-Frequency-Trading Patterns in Rust
+=======
+<<<<<<< HEAD
+# High-Frequency-Trading
+=======
+# High-Frequency-Trading-Patterns
+```markdown
+# High-Frequency-Trading Patterns&nbsp;in Rust
+>>>>>>> feb3bf6 (statistical arbitrage)
 
 A hands-on playground that **implements canonical HFT play-books in pure Rust**, one pattern per crate (or binary).  
 The goal is to let researchers, quants, and curious Rustaceans *clone → `cargo run` → inspect* each strategy with zero infrastructure pain.
@@ -136,3 +145,7 @@ Happy market-making!  Pull requests, issue reports, and battle-stories are very 
 
 ```
 ```
+<<<<<<< HEAD
+=======
+>>>>>>> 051ca2b (Initial commit of HFT patterns project)
+>>>>>>> feb3bf6 (statistical arbitrage)

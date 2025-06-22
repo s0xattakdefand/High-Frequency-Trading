@@ -1,0 +1,13 @@
+# -------- trading knobs ---------
+entry_bps   =  1.0      # trigger if gross edge > 1 bp  (≃ 0.01%)
+exit_bps    =  0.2      # flatten when < 0.2 bp
+fee_bps     =  0.02     # taker fee per leg (0.02 bp ≃ 0.0002%)
+size_eur    = 10_000.0  # notional EUR we cycle per triangle
+pos_limit   = 100_000.0 # max absolute per-currency exposure
+tick_ms     = 50        # simulator tick interval
+
+# fixed spreads (bid–ask) for each pair
+[spreads]
+"EUR/USD" = 0.0001      # 1 pip
+"USD/JPY" = 0.01        # 1 pip
+"EUR/JPY" = 0.015

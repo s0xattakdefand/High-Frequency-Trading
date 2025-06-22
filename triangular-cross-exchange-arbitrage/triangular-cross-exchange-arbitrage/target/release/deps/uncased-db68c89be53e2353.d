@@ -1,0 +1,10 @@
+/mnt/c/Users/RMT/Documents/vscodium/HighFrequencyTradingPatterns/triangular-cross-exchange-arbitrage/triangular-cross-exchange-arbitrage/target/release/deps/libuncased-db68c89be53e2353.rmeta: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/owned.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/borrowed.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/as_uncased.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/HighFrequencyTradingPatterns/triangular-cross-exchange-arbitrage/triangular-cross-exchange-arbitrage/target/release/deps/libuncased-db68c89be53e2353.rlib: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/owned.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/borrowed.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/as_uncased.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/HighFrequencyTradingPatterns/triangular-cross-exchange-arbitrage/triangular-cross-exchange-arbitrage/target/release/deps/uncased-db68c89be53e2353.d: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/owned.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/borrowed.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/as_uncased.rs
+
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/lib.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/owned.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/borrowed.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uncased-0.9.10/src/as_uncased.rs:

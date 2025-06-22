@@ -1,0 +1,9 @@
+/mnt/c/Users/RMT/Documents/vscodium/HighFrequencyTradingPatterns/triangular-cross-exchange-arbitrage/triangular-cross-exchange-arbitrage/target/release/deps/libinlinable_string-3fd5591f58bfa3c8.rmeta: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/inline_string.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/string_ext.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/HighFrequencyTradingPatterns/triangular-cross-exchange-arbitrage/triangular-cross-exchange-arbitrage/target/release/deps/libinlinable_string-3fd5591f58bfa3c8.rlib: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/inline_string.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/string_ext.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/HighFrequencyTradingPatterns/triangular-cross-exchange-arbitrage/triangular-cross-exchange-arbitrage/target/release/deps/inlinable_string-3fd5591f58bfa3c8.d: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/inline_string.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/string_ext.rs
+
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/lib.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/inline_string.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/inlinable_string-0.1.15/src/string_ext.rs:

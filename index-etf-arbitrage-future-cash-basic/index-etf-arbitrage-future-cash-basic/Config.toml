@@ -1,0 +1,18 @@
+# --- basket weights (must sum to 1.0) ---
+weights = { AAA = 0.40, BBB = 0.35, CCC = 0.25 }
+
+# rolling-window length (ticks) for basis z-score
+lookback   = 200
+
+# entry / exit thresholds
+entry_bp   = 8.0      # enter when |basis| > 8 bps
+exit_bp    = 2.0      # flatten when |basis| < 2 bps
+
+# trade size (ETF shares, stocks scaled by weight)
+size_etf   = 100.0
+
+# max inventory per leg
+pos_limit  = 2_000.0
+
+# simulator tick interval (ms)
+tick_ms    = 50

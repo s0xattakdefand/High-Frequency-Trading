@@ -1,0 +1,9 @@
+symbol      = "XYZ"
+tick_sz     = 0.01
+tick_ms     = 1                 # 1 ms horizon = next tick
+
+theta       = 0.10              # confidence gate
+learning_rate = 0.02
+
+max_pos       = 5_000.0
+max_orders_s  = 2_000
